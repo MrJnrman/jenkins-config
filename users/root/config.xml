@@ -3,7 +3,7 @@
   <fullName>Jamel Reid</fullName>
   <properties>
     <jenkins.security.ApiTokenProperty>
-      <apiToken>{AQAAABAAAAAwMCTuad60y3/Gu7bDt0xK2wuNicK0/DCofUe98T79fZZ/W9knsT8EhvH1VZvq2M+uj/9IeDgl3cZTwiOGX+mTLQ==}</apiToken>
+      <apiToken>{AQAAABAAAABwKzHOZMv8A8JHffn4+IMQMB7jOOZWJAaOcJcI9rT39wGCDrPk5IaLhVLqs2Vli+Q/dD+FlkQsGCd+xhDvZhqmgRKpb39ozpNy3FLk0JDPZhBwO+jmxxGWxr1lfA3F2fUtlMsDmYtxvkL/L4Xqag68zCBrj90q6283HIiTjnpzcyM=}</apiToken>
     </jenkins.security.ApiTokenProperty>
     <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.1.16">
       <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash"/>
@@ -34,5 +34,8 @@
     <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
       <emailAddress>jnoelreid@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
+    <jenkins.security.LastGrantedAuthoritiesProperty>
+      <timestamp>0</timestamp>
+    </jenkins.security.LastGrantedAuthoritiesProperty>
   </properties>
 </user>
