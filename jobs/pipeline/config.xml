@@ -16,10 +16,8 @@
         echo &apos;Deploying....&apos;
     }
 }
-
-
 </script>
-    <sandbox>true</sandbox>
+    <sandbox>false</sandbox>
   </definition>
   <triggers/>
   <disabled>false</disabled>
