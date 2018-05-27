@@ -1,6 +1,4 @@
 node {
-    agent any
-
         stage('Build') {
             steps {
                 echo 'Building..'
