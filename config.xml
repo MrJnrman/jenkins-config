@@ -1,8 +1,11 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <hudson>
   <disabledAdministrativeMonitors/>
-  <version>2.124</version>
-  <installStateName>RUNNING</installStateName>
+  <version>2.107.3</version>
+  <installState class="jenkins.install.InstallState$6">
+    <isSetupComplete>true</isSetupComplete>
+    <name>DOWNGRADE</name>
+  </installState>
   <numExecutors>2</numExecutors>
   <mode>NORMAL</mode>
   <useSecurity>true</useSecurity>
