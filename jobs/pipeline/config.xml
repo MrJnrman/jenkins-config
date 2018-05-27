@@ -5,26 +5,8 @@
   <keepDependencies>false</keepDependencies>
   <properties/>
   <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@2.53">
-    <script>
-node {
-
-    stages {
-        stage(&apos;Build&apos;) {
-            steps {
-                echo &apos;Building..&apos;
-            }
-        }
-        stage(&apos;Test&apos;) {
-            steps {
-                echo &apos;Testing..&apos;
-            }
-        }
-        stage(&apos;Deploy&apos;) {
-            steps {
-                echo &apos;Deploying....&apos;
-            }
-        }
-    }
+    <script>node {
+   echo &apos;Hello World&apos;
 }</script>
     <sandbox>true</sandbox>
   </definition>
