@@ -2,7 +2,6 @@
 <hudson>
   <disabledAdministrativeMonitors/>
   <version>2.124</version>
-  <installStateName>DOWNGRADE</installStateName>
   <numExecutors>2</numExecutors>
   <mode>NORMAL</mode>
   <useSecurity>true</useSecurity>
